@@ -1,0 +1,3 @@
+This repository contains pre-made patch files for SCC Linux. The intent is to
+allow our Buildroot to fetch the vanilla (base) kernel and the corresponding
+patch file without having to clone the entire SCC Linux repository.
